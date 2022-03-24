@@ -1,0 +1,1 @@
+/Users/thangarajmuruganantham/Workspace/Rust/basics_rust/data_types/challange_2_declaring_tuple/target/debug/challange_2_declaring_tuple: /Users/thangarajmuruganantham/Workspace/Rust/basics_rust/data_types/challange_2_declaring_tuple/src/main.rs

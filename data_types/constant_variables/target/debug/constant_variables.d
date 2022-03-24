@@ -1,0 +1,1 @@
+/Users/thangarajmuruganantham/Workspace/Rust/basics_rust/data_types/constant_variables/target/debug/constant_variables: /Users/thangarajmuruganantham/Workspace/Rust/basics_rust/data_types/constant_variables/src/main.rs
